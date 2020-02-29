@@ -1,0 +1,23 @@
+li {
+    color: blue;
+    font-family: sans-serif;
+}
+h2 {
+  color: blue;
+  font-family: sans-serif;
+}
+table, th, td {
+  border: 1px solid black;
+  color: rgb(220,20,60);
+  border-color: black;
+  border-collapse: collapse;
+  text-align: center;
+  font-family: Lucida Console;
+}
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+h1 {
+  color: rgb(75,0,130);
+  font-size: 300%;
+}
